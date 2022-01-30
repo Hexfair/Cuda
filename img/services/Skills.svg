@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="655" viewBox="0 0 1440 655">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #dfe8ed;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-14, .cls-15, .cls-3, .cls-4 {
+        fill: #3c4761;
+      }
+
+      .cls-3 {
+        font-size: 24px;
+      }
+
+      .cls-15, .cls-3 {
+        font-family: TitilliumWeb-Bold, Titillium Web;
+        font-weight: 700;
+      }
+
+      .cls-14, .cls-3, .cls-4 {
+        letter-spacing: 0.02em;
+      }
+
+      .cls-4 {
+        font-size: 50px;
+        font-family: TitilliumWeb-Light, Titillium Web;
+        font-weight: 300;
+      }
+
+      .cls-5 {
+        font-size: 32px;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-7 {
+        fill: #30bae7;
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-9 {
+        fill: #d74680;
+      }
+
+      .cls-10 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-11 {
+        fill: #15c7a8;
+      }
+
+      .cls-12 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-13 {
+        fill: #eb7d4b;
+      }
+
+      .cls-14 {
+        font-size: 18px;
+        font-family: TitilliumWeb-Regular, Titillium Web;
+      }
+
+      .cls-15 {
+        font-size: 40px;
+        letter-spacing: 0.1em;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="base" class="cls-1" d="M300,2740a79.624,79.624,0,0,1-44.729-13.663,80.233,80.233,0,0,1-28.984-35.2,79.894,79.894,0,0,1,7.376-75.869,80.236,80.236,0,0,1,35.2-28.984,79.894,79.894,0,0,1,75.868,7.376,80.233,80.233,0,0,1,28.984,35.2,79.9,79.9,0,0,1-7.376,75.869,80.235,80.235,0,0,1-35.2,28.984A79.505,79.505,0,0,1,300,2740Zm0-147a67,67,0,1,0,67,67A67.075,67.075,0,0,0,300,2593Z"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Base-2" data-name="Base" class="cls-1" d="M580,2740a79.623,79.623,0,0,1-44.729-13.663,80.233,80.233,0,0,1-28.984-35.2,79.894,79.894,0,0,1,7.376-75.869,80.234,80.234,0,0,1,35.2-28.984,79.894,79.894,0,0,1,75.868,7.376,80.233,80.233,0,0,1,28.984,35.2,79.895,79.895,0,0,1-7.376,75.869,80.235,80.235,0,0,1-35.2,28.984A79.5,79.5,0,0,1,580,2740Zm0-147a67,67,0,1,0,67,67A67.075,67.075,0,0,0,580,2593Z"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Base-3" data-name="Base" class="cls-1" d="M859,2740a79.623,79.623,0,0,1-44.729-13.663,80.233,80.233,0,0,1-28.984-35.2,79.894,79.894,0,0,1,7.376-75.869,80.234,80.234,0,0,1,35.2-28.984,79.894,79.894,0,0,1,75.868,7.376,80.233,80.233,0,0,1,28.984,35.2,79.895,79.895,0,0,1-7.376,75.869,80.235,80.235,0,0,1-35.2,28.984A79.5,79.5,0,0,1,859,2740Zm0-147a67,67,0,1,0,67,67A67.075,67.075,0,0,0,859,2593Z"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Base-4" data-name="Base" class="cls-1" d="M1140,2740a79.624,79.624,0,0,1-44.729-13.663,80.233,80.233,0,0,1-28.985-35.2,79.893,79.893,0,0,1,7.376-75.869,80.237,80.237,0,0,1,35.2-28.984,79.9,79.9,0,0,1,75.869,7.376,80.233,80.233,0,0,1,28.984,35.2,79.895,79.895,0,0,1-7.376,75.869,80.233,80.233,0,0,1-35.2,28.984A79.5,79.5,0,0,1,1140,2740Zm0-147a67,67,0,1,0,67,67A67.076,67.076,0,0,0,1140,2593Z"/>
+    </clipPath>
+  </defs>
+  <g id="Skills" transform="translate(0 -2257)">
+    <rect id="Bg" class="cls-2" width="1440" height="655" transform="translate(0 2257)"/>
+    <g id="_4" data-name="4">
+      <text id="WEB_DESIGN" data-name="WEB DESIGN" class="cls-3" transform="translate(230.875 2789.25)"><tspan x="0" y="0">WEB DESIGN</tspan></text>
+      <text id="_90_" data-name="90%" class="cls-4" transform="translate(266.484 2677.271)"><tspan x="0" y="0">90</tspan><tspan class="cls-5" y="0">%</tspan></text>
+      <g id="base-5" data-name="base">
+        <path id="base-6" data-name="base" class="cls-1" d="M300,2740a79.624,79.624,0,0,1-44.729-13.663,80.233,80.233,0,0,1-28.984-35.2,79.894,79.894,0,0,1,7.376-75.869,80.236,80.236,0,0,1,35.2-28.984,79.894,79.894,0,0,1,75.868,7.376,80.233,80.233,0,0,1,28.984,35.2,79.9,79.9,0,0,1-7.376,75.869,80.235,80.235,0,0,1-35.2,28.984A79.505,79.505,0,0,1,300,2740Zm0-147a67,67,0,1,0,67,67A67.075,67.075,0,0,0,300,2593Z"/>
+        <g id="Clip" class="cls-6">
+          <path id="Progress" class="cls-7" d="M300,2569.333V2600.5s106.167,41.167,40.583,105.416c-27.735,27.171-74.9,19.048-92.75-20.05-20.917-45.814,19.8-73.647,19.8-73.647L249.5,2584.791s-57.972,50.962-22.263,120.64c23.6,46.041,79.5,43.709,105.763,33.818,58.683-22.1,59.667-91.583,36.667-125.583S300,2569.333,300,2569.333Z"/>
+        </g>
+      </g>
+    </g>
+    <g id="_3" data-name="3">
+      <text id="HTML_CSS" data-name="HTML / CSS" class="cls-3" transform="translate(516.875 2789.25)"><tspan x="0" y="0">HTML / CSS</tspan></text>
+      <text id="_75_" data-name="75%" class="cls-4" transform="translate(546.484 2677.271)"><tspan x="0" y="0">75</tspan><tspan class="cls-5" y="0">%</tspan></text>
+      <g id="Base-7" data-name="Base">
+        <path id="Base-8" data-name="Base" class="cls-1" d="M580,2740a79.623,79.623,0,0,1-44.729-13.663,80.233,80.233,0,0,1-28.984-35.2,79.894,79.894,0,0,1,7.376-75.869,80.234,80.234,0,0,1,35.2-28.984,79.894,79.894,0,0,1,75.868,7.376,80.233,80.233,0,0,1,28.984,35.2,79.895,79.895,0,0,1-7.376,75.869,80.235,80.235,0,0,1-35.2,28.984A79.5,79.5,0,0,1,580,2740Zm0-147a67,67,0,1,0,67,67A67.075,67.075,0,0,0,580,2593Z"/>
+        <g id="Clip-2" data-name="Clip" class="cls-8">
+          <path id="Progress-2" data-name="Progress" class="cls-9" d="M580,2569.333V2600.5s112.067,51.6,36.49,103.729C538.651,2757.916,521.6,2660,521.6,2660H491.812s12.061,113.442,121.187,79.25c59.839-18.749,59.667-91.583,36.667-125.583S580,2569.333,580,2569.333Z"/>
+        </g>
+      </g>
+    </g>
+    <g id="_2" data-name="2">
+      <text id="GRAPHIC_DESIGN" data-name="GRAPHIC DESIGN" class="cls-3" transform="translate(767.875 2789.25)"><tspan x="0" y="0">GRAPHIC DESIGN</tspan></text>
+      <text id="_70_" data-name="70%" class="cls-4" transform="translate(825.484 2677.271)"><tspan x="0" y="0">70</tspan><tspan class="cls-5" y="0">%</tspan></text>
+      <g id="Base-9" data-name="Base">
+        <path id="Base-10" data-name="Base" class="cls-1" d="M859,2740a79.623,79.623,0,0,1-44.729-13.663,80.233,80.233,0,0,1-28.984-35.2,79.894,79.894,0,0,1,7.376-75.869,80.234,80.234,0,0,1,35.2-28.984,79.894,79.894,0,0,1,75.868,7.376,80.233,80.233,0,0,1,28.984,35.2,79.895,79.895,0,0,1-7.376,75.869,80.235,80.235,0,0,1-35.2,28.984A79.5,79.5,0,0,1,859,2740Zm0-147a67,67,0,1,0,67,67A67.075,67.075,0,0,0,859,2593Z"/>
+        <g id="Clip-3" data-name="Clip" class="cls-10">
+          <path id="Progress-3" data-name="Progress" class="cls-11" d="M859,2569.333V2600.5s106.167,41.167,40.583,105.416c-50.464,49.438-97.885-20.791-97.885-20.791l-20.031,10.958s36.582,70.39,110.333,43.166c58.828-21.715,59.667-91.583,36.667-125.583S859,2569.333,859,2569.333Z"/>
+        </g>
+      </g>
+    </g>
+    <g id="_1" data-name="1">
+      <text id="UI_UX" data-name="UI / UX" class="cls-3" transform="translate(1100.875 2789.25)"><tspan x="0" y="0">UI / UX</tspan></text>
+      <text id="_85_" data-name="85%" class="cls-4" transform="translate(1106.484 2677.271)"><tspan x="0" y="0">85</tspan><tspan class="cls-5" y="0">%</tspan></text>
+      <g id="Base-11" data-name="Base">
+        <path id="Base-12" data-name="Base" class="cls-1" d="M1140,2740a79.624,79.624,0,0,1-44.729-13.663,80.233,80.233,0,0,1-28.985-35.2,79.893,79.893,0,0,1,7.376-75.869,80.237,80.237,0,0,1,35.2-28.984,79.9,79.9,0,0,1,75.869,7.376,80.233,80.233,0,0,1,28.984,35.2,79.895,79.895,0,0,1-7.376,75.869,80.233,80.233,0,0,1-35.2,28.984A79.5,79.5,0,0,1,1140,2740Zm0-147a67,67,0,1,0,67,67A67.076,67.076,0,0,0,1140,2593Z"/>
+        <g id="Clip-4" data-name="Clip" class="cls-12">
+          <path id="Progress-4" data-name="Progress" class="cls-13" d="M1140,2569.333V2600.5s104.55,68.5,34.9,106.073c-102.674,55.381-87.573-76.885-87.573-76.885l-23.531-14.323s-12.618,38.032-3.473,72.123c10.088,37.607,44.9,70.811,112.682,51.762,60.369-16.967,59.667-91.583,36.667-125.583S1140,2569.333,1140,2569.333Z"/>
+        </g>
+      </g>
+    </g>
+    <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipisicing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua." data-name="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod 
+tempor incididunt ut labore et dolore magna aliqua." class="cls-14" transform="translate(720.5 2464.875)"><tspan x="-286.128" y="0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod </tspan><tspan x="-201.33" y="26">tempor incididunt ut labore et dolore magna aliqua.</tspan></text>
+    <rect id="Line" class="cls-1" width="87" height="4" transform="translate(677 2424)"/>
+    <text id="WE_GOT_SKILLS_" data-name="WE GOT SKILLS!" class="cls-15" transform="translate(723 2401.5)"><tspan x="-163.94" y="0">WE GOT SKILLS!</tspan></text>
+  </g>
+</svg>

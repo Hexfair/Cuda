@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <style>
+    svg {
+      cursor: pointer;
+    }
+
+    .bbb {
+      fill: #127CBA;
+    }
+
+    .ccc {
+      fill: white;
+    }
+  </style>
+  <g id="LinkedIn_icon" data-name="LinkedIn icon" transform="translate(-306 -2098)">
+    <circle id="Base" cx="16" cy="16" r="16" transform="translate(306 2098)" fill="#bdd1df" />
+    <path id="LinkedIn_icon-2" data-name="LinkedIn icon" d="M315,2121.01v-11.023h3.011v11.023Zm12.011-.031v-6.4a2.206,2.206,0,0,0-2.188-2.352,1.831,1.831,0,0,0-1.715,1.264,2.424,2.424,0,0,0-.112.844v6.646h-2.977v-10.992H322.7l.322,1.122a3.557,3.557,0,0,1,3.227-1.5c2.221,0,3.756,1.3,3.756,4.49v6.883Zm-12.319-14.061a1.9,1.9,0,0,1,3.776,0,1.693,1.693,0,0,1-1.9,1.69A1.716,1.716,0,0,1,314.688,2106.918Z" fill="#fff" />
+  </g>
+  <script>
+    const elems = document.querySelector('g');
+    const elems2 = document.querySelector('circle');
+    const elems3 = document.querySelector('path');
+    elems.addEventListener("mouseover", function (e) {
+      elems2.classList.add('bbb');
+      elems3.classList.add('ccc');
+    });
+    elems.addEventListener("mouseout", function (e) {
+      elems2.classList.remove('bbb');
+      elems3.classList.remove('ccc');
+    });
+  </script>
+</svg>

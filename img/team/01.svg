@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <style>
+    svg {
+      cursor: pointer;
+    }
+
+    .bbb {
+      fill: #0D8AF0;
+    }
+
+    .ccc {
+      fill: white;
+    }
+  </style>
+  <g id="Fb_icon" data-name="Fb icon" transform="translate(-219 -2098)">
+    <circle class="abc" id="base" cx="16" cy="16" r="16" transform="translate(219 2098)" fill="#bdd1df" />
+    <path id="Facebook_Icon" data-name="Facebook Icon" d="M237.979,2106.94h-1.651a3.034,3.034,0,0,0-3.313,3.245v1.806h-2l.006,2.007h1.993l-.029,8.014h3.03v-7.982l1.738-.031.624-2.007h-2.395v-2.065a.925.925,0,0,1,1.049-.916h.938Z" fill="#fff" />
+  </g>
+  <script>
+    const elems = document.querySelector('g');
+    const elems2 = document.querySelector('circle');
+    const elems3 = document.querySelector('path');
+    elems.addEventListener("mouseover", function (e) {
+      elems2.classList.add('bbb');
+      elems3.classList.add('ccc');
+    });
+    elems.addEventListener("mouseout", function (e) {
+      elems2.classList.remove('bbb');
+      elems3.classList.remove('ccc');
+    });
+  </script>
+</svg>
