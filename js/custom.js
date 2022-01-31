@@ -100,8 +100,7 @@ document.addEventListener('DOMContentLoaded', function () {
 					}
 
 					if ((scrollY > animItemOffset - animItemPoint) && scrollY < (animItemOffset + animItemHeight) && scrolled == true) {
-						animDiagram();
-						scrolled = false;
+						animDiagram(animItem);
 					}
 				}
 			};
@@ -111,9 +110,11 @@ document.addEventListener('DOMContentLoaded', function () {
 					scrollTop = window.pageYOffset || document.documentElement.scrollTop;
 				return { top: rect.top + scrollTop, left: rect.left + scrollLeft }
 			};
-			function animDiagram() {
-				let arrDiagram = document.querySelectorAll('.diagram');
+			function animDiagram(animItem) {
+				let arrDiagram = animItem.querySelectorAll('.diagram');
 				arrDiagram.forEach(function (item, index, array) {
+					item.classList.remove('diagram');
+
 					let counter = 0;
 					let percent = Number(item.getAttribute('data-percent'));
 					let circle = item.querySelector('.front');
@@ -139,8 +140,10 @@ document.addEventListener('DOMContentLoaded', function () {
 							clearInterval(timerID);
 						}
 					}
+
 					let timerID = setInterval(updateNumber, timeDelay, percent);
 				});
+
 			};
 			setTimeout(() => {
 				animOnScroll();
