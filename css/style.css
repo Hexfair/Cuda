@@ -165,7 +165,6 @@ h1, h2, h3, h4, h5, h6 {
   padding: 23px 78px;
   border-radius: 4px;
   line-height: 26px;
-  text-transform: uppercase;
   font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 0.67px;
@@ -174,6 +173,10 @@ h1, h2, h3, h4, h5, h6 {
   overflow: hidden;
   font-family: "TitilliumWeb-SemiBold";
   font-weight: 600;
+  top: 0;
+  -webkit-transition: top 0.3s ease 0s;
+  -o-transition: top 0.3s ease 0s;
+  transition: top 0.3s ease 0s;
 }
 .btn:hover {
   top: 4px;
@@ -186,6 +189,13 @@ h1, h2, h3, h4, h5, h6 {
     padding: 23px 18px;
     width: 100%;
   }
+}
+.btn span {
+  -webkit-transition-duration: 0.3s;
+       -o-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+  position: relative;
+  z-index: 1;
 }
 
 .btn_orange {
@@ -200,6 +210,26 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   background-color: #c86a40;
 }
+.btn_orange:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  bottom: 0;
+  left: 0;
+  background-color: #c86a40;
+  -webkit-transform: scale(0);
+      -ms-transform: scale(0);
+          transform: scale(0);
+  -webkit-transition-duration: 0.6s;
+       -o-transition-duration: 0.6s;
+          transition-duration: 0.6s;
+}
+.btn_orange:hover:before {
+  -webkit-transform: scale(1);
+      -ms-transform: scale(1);
+          transform: scale(1);
+}
 
 .btn_green {
   background-color: #17c2a4;
@@ -213,6 +243,26 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   background-color: #14a58c;
 }
+.btn_green:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  bottom: 0;
+  left: 0;
+  background-color: #14a58c;
+  -webkit-transform: scale(0);
+      -ms-transform: scale(0);
+          transform: scale(0);
+  -webkit-transition-duration: 0.6s;
+       -o-transition-duration: 0.6s;
+          transition-duration: 0.6s;
+}
+.btn_green:hover:before {
+  -webkit-transform: scale(1);
+      -ms-transform: scale(1);
+          transform: scale(1);
+}
 
 .btn_blue {
   background-color: #30bae7;
@@ -225,6 +275,26 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   left: 0;
   background-color: #299ec5;
+}
+.btn_blue:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  bottom: 0;
+  left: 0;
+  background-color: #299ec5;
+  -webkit-transform: scale(0);
+      -ms-transform: scale(0);
+          transform: scale(0);
+  -webkit-transition-duration: 0.6s;
+       -o-transition-duration: 0.6s;
+          transition-duration: 0.6s;
+}
+.btn_blue:hover:before {
+  -webkit-transform: scale(1);
+      -ms-transform: scale(1);
+          transform: scale(1);
 }
 
 /* Заголовки */
@@ -607,11 +677,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 .header {
   background-color: #87509c;
-  height: 100vh;
+  min-height: 100vh;
 }
 .header__body {
   padding: 60px 0px 145px 0px;
   text-align: center;
+  position: relative;
 }
 @media (max-width: 992.98px) {
   .header__body {
